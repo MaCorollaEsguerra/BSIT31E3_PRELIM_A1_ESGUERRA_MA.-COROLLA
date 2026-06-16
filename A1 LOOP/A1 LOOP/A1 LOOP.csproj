@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\maria\Desktop\BSIT31E3_PRELIM_A1_ESGUERRA_MA. COROLLA\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
